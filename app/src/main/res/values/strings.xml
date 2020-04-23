@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HangTheMan</string>
+
+    <string name="guess_hint">Guess letter(s)</string>
+    <string name="guess_btn">Guess</string>
+    <string name="start_btn">Start game</string>
+    <string name="score_text">Number of mistakes</string>
+    <string name="score_text_fail">Number of rights</string>
+    <string name="highscore_text">Hightscore</string>
+    <string name="restart">New game</string>
+
+    <string-array name="words">
+        <item>Markus</item>
+        <item>Banana</item>
+        <item>Mercedes</item>
+        <item>Apple</item>
+    </string-array>
+</resources>
